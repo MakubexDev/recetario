@@ -1,0 +1,26 @@
+[
+  {
+    "Ciclo": 1,
+    "Codigo": "AR-1101",
+    "Secciones": {
+        "GI": [
+          {
+            "Tipo": "T",
+            "Dia": "LU",
+            "Hora":  "8:00-10:00",
+            "Profesor": "ARQ.ROSA KOHAMA ARESTEGUI"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora":  "8:00-10:00",
+            "Profesor": "ARQ.ROSA KOHAMA ARESTEGUI"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "8:00-10:00",
+            "Profesor": "ARQ.ROSA KOHAMA ARESTEGUI"
+          }
+        ]
+]
