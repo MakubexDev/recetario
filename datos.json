@@ -6,7 +6,7 @@
       "GI",
       "T/L",
       "LU",
-      "8:00-10:00",
+      "7:45-10:00",
       "ARQ.ROSA KOHAMA ARESTEGUI",
       "PRIMER CICLO"
     ],
@@ -15,11 +15,53 @@
       "AR-1101",
       "TALLER DE DISEÑO I",
       "GI",
-      "T/L",
+      "T",
       "MI",
-      "8:00-10:00",
+      "7:45-10:00",
       "ARQ.ROSA KOHAMA ARESTEGUI",
       "SEGUNDO CICLO"
-    ]
+    ],
+    [
+      "AR-1101",
+      "TALLER DE DISEÑO I",
+      "GI",
+      "P",
+      "VI",
+      "7:45-10:00",
+      "ARQ.ROSA KOHAMA ARESTEGUI",
+      "SEGUNDO CICLO"
+    ],
+    
+    [
+      "AR-1101",
+      "TALLER DE DISEÑO I",
+      "GII",
+      "P",
+      "VI",
+      "7:45-10:00",
+      "ARQ.BETSY SERRANO MARIÑO",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "AR-1101",
+      "TALLER DE DISEÑO I",
+      "GII",
+      "T",
+      "MI",
+      "7:45-10:00",
+      "ARQ.BETSY SERRANO MARIÑO",
+      "SEGUNDO CICLO"
+    ],
+    [
+      "AR-1101",
+      "TALLER DE DISEÑO I",
+      "GII",
+      "P",
+      "VI",
+      "7:45-10:00",
+      "ARQ.BETSY SERRANO MARIÑO",
+      "SEGUNDO CICLO"
+    ],
+    
    ]
 }
