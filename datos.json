@@ -1,72 +1,25 @@
-[
- {
-  "AR-1101": "AR-1101",
-  "TALLER DE DISEÑO I": "TALLER DE DISEÑO I",
-  "GI": "GI",
-  "T": "T",
-  "LU": "MI",
-  "7:45-10:00": "7:45-10:00",
-  "ARQ.ROSA KOHAMA ARESTEGUI": "ARQ.ROSA KOHAMA ARESTEGUI",
-  "PRIMER CICLO": "PRIMER CICLO"
- },
- {
-  "AR-1101": "AR-1101",
-  "TALLER DE DISEÑO I": "TALLER DE DISEÑO I",
-  "GI": "GI",
-  "T": "P",
-  "LU": "VI",
-  "7:45-10:00": "7:45-10:00",
-  "ARQ.ROSA KOHAMA ARESTEGUI": "ARQ.ROSA KOHAMA ARESTEGUI",
-  "PRIMER CICLO": "PRIMER CICLO"
- },
- {
-  "AR-1101": "AR-1101",
-  "TALLER DE DISEÑO I": "TALLER DE DISEÑO I",
-  "GI": "GII",
-  "T": "T",
-  "LU": "LU",
-  "7:45-10:00": "7:45-10:01",
-  "ARQ.ROSA KOHAMA ARESTEGUI": "ARQ.BETSY SERRANO MARIÑO",
-  "PRIMER CICLO": "PRIMER CICLO"
- },
- {
-  "AR-1101": "AR-1101",
-  "TALLER DE DISEÑO I": "TALLER DE DISEÑO I",
-  "GI": "GII",
-  "T": "T",
-  "LU": "MI",
-  "7:45-10:00": "7:45-10:02",
-  "ARQ.ROSA KOHAMA ARESTEGUI": "ARQ.BETSY SERRANO MARIÑO",
-  "PRIMER CICLO": "PRIMER CICLO"
- },
- {
-  "AR-1101": "AR-1101",
-  "TALLER DE DISEÑO I": "TALLER DE DISEÑO I",
-  "GI": "GII",
-  "T": "P",
-  "LU": "VI",
-  "7:45-10:00": "7:45-10:03",
-  "ARQ.ROSA KOHAMA ARESTEGUI": "ARQ.BETSY SERRANO MARIÑO",
-  "PRIMER CICLO": "PRIMER CICLO"
- },
- {
-  "AR-1101": "AR-1102",
-  "TALLER DE DISEÑO I": "EXPRESIÓN ARQUITECTONICA I",
-  "GI": "GI",
-  "T": "P",
-  "LU": "MA",
-  "7:45-10:00": "7:45-11:30",
-  "ARQ.ROSA KOHAMA ARESTEGUI": "ARQ.XENIA VERDI CHAHUA",
-  "PRIMER CICLO": "PRIMER CICLO"
- },
- {
-  "AR-1101": "AR-1102",
-  "TALLER DE DISEÑO I": "EXPRESIÓN ARQUITECTONICA I",
-  "GI": "GII",
-  "T": "P",
-  "LU": "MA",
-  "7:45-10:00": "7:45-11:31",
-  "ARQ.ROSA KOHAMA ARESTEGUI": "ARQ.BETSY SERRANO MARIÑO",
-  "PRIMER CICLO": "PRIMER CICLO"
- }
-]
+{
+  "data": [
+    [
+      "AR-1101",
+      "TALLER DE DISEÑO I",
+      "GI",
+      "T",
+      "LU",
+      "7:45-10:00",
+      "ARQ.ROSA KOHAMA ARESTEGUI",
+      "PRIMER CICLO"
+    ],
+   
+    [
+      "BFI05",
+      "FUNDAMENTOS DE INGENIERIA TÉRMICA Y DE FLUIDOS",
+      "O",
+      "P",
+      "VI",
+      "10:00-12:00",
+      "DURAND BERNALD, LUIS",
+      "SEGUNDO CICLO"
+    ]
+   ]
+}
