@@ -5,7 +5,7 @@
     "Secciones": {
         "GI": [
           {
-            "Tipo": "T",
+            "Tipo": "P",
             "Dia": "LU",
             "Hora": "8:00-10:00",
             "Profesor": "ARQ.ROSA KOHAMA ARESTEGUI"
@@ -32,7 +32,7 @@
             "Profesor": "ARQ.BETSY SERRANO MARIÑO"
           },
           {
-            "Tipo": "T",
+            "Tipo": "P",
             "Dia": "MI",
             "Hora": "14:00-16:00",
             "Profesor": "ARQ.BETSY SERRANO MARIÑO"
@@ -52,7 +52,7 @@
     "Secciones": {
       "GI": [
         {
-          "Tipo": "T",
+          "Tipo": "P",
           "Dia": "MA",
           "Hora": "8:00-11:00",
           "Profesor": "ARQ.XENIA VERDI CHAHUA"
