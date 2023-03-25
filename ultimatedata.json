@@ -45,5 +45,27 @@
           }
         ]
       }
-   }
+   },
+  {
+    "Ciclo": 1,
+    "Codigo": "AR-1102",
+    "Secciones": {
+      "GI": [
+        {
+          "Tipo": "T",
+          "Dia": "MA",
+          "Hora": "8:00-11:00",
+          "Profesor": "ARQ.XENIA VERDI CHAHUA"
+        }
+      ],
+      "GII": [
+        {
+          "Tipo": "P",
+          "Dia": "MA",
+          "Hora": "8:00-11:00",
+          "Profesor": "ARQ.BETSY SERRANO MARIÑO"
+        }
+      ]
+    }
+  }
 ]
