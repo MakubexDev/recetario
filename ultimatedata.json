@@ -23,6 +23,27 @@
             "Profesor": "ARQ.ROSA KOHAMA ARESTEGUI"
           }
         ]
+      ,
+       "GII": [
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "14:00-16:00",
+            "Profesor": "ARQ.BETSY SERRANO MARIÑO"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "MI",
+            "Hora": "14:00-16:00",
+            "Profesor": "ARQ.BETSY SERRANO MARIÑO"
+          },
+          {
+            "Tipo": "L",
+            "Dia": "VI",
+            "Hora": "14:00-16:00",
+            "Profesor": "ARQ.BETSY SERRANO MARIÑO"
+          }
+        ]
       }
    }
 ]
