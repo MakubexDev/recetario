@@ -28,19 +28,19 @@
           {
             "Tipo": "P",
             "Dia": "LU",
-            "Hora": "14:00-16:00",
+            "Hora": "8:00-10:00",
             "Profesor": "ARQ.BETSY SERRANO MARIÑO"
           },
           {
             "Tipo": "P",
             "Dia": "MI",
-            "Hora": "14:00-16:00",
+            "Hora": "8:00-10:00",
             "Profesor": "ARQ.BETSY SERRANO MARIÑO"
           },
           {
             "Tipo": "L",
             "Dia": "VI",
-            "Hora": "14:00-16:00",
+            "Hora": "8:00-10:00",
             "Profesor": "ARQ.BETSY SERRANO MARIÑO"
           }
         ]
