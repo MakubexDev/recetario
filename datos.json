@@ -34,7 +34,7 @@
     [
       "AR-1101",
       "TALLER DE DISEÑO I",
-      "M",
+      "GII",
       "P",
       "LU",
       "7:45-10:00",
@@ -44,7 +44,7 @@
     [
       "AR-1101",
       "TALLER DE DISEÑO I",
-      "M",
+      "GII",
       "T",
       "MI",
       "7:45-10:00",
@@ -54,12 +54,33 @@
     [
       "AR-1101",
       "TALLER DE DISEÑO I",
-      "M",
+      "GII",
       "L",
       "VI",
       "7:45-10:00",
       "ARQ.BETSY SERRANO MARIÑO",
       "PRIMER CICLO"
     ]
+    [
+      "AR-1102",
+      "EXPRESIÓN ARQUITECTONICA I",
+      "GI",
+      "P",
+      "MA",
+      "7:45-11:30",
+      "ARQ.XENIA VERDI CHAHUA",
+      "PRIMER CICLO"
+    ],
+    [
+      "AR-1102",
+      "EXPRESIÓN ARQUITECTONICA I",
+      "GII",
+      "P",
+      "MA",
+      "7:45-11:30",
+      "ARQ.BETSY SERRANO MARIÑO",
+      "PRIMER CICLO"
+    ],    
+    
    ]
 }
