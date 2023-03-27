@@ -7,19 +7,19 @@
           {
             "Tipo": "P",
             "Dia": "LU",
-            "Hora":  "7:45-10:00",
+            "Hora": "8:00-10:00",
             "Profesor": "Rosa Kohama Arestegui"
           },
           {
             "Tipo": "P",
             "Dia": "MI",
-            "Hora":  "7:45-10:00",
+            "Hora":  "8:00-10:00",
             "Profesor": "Rosa Kohama Arestegui"
           },
           {
             "Tipo": "T",
             "Dia": "VI",
-            "Hora": "7:45-10:00",
+            "Hora": "8:00-10:00",
             "Profesor": "Rosa Kohama Arestegui"
           }
         ]
