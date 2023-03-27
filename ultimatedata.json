@@ -22,26 +22,6 @@
             "Hora": "7:45-10:00",
             "Profesor": "Rosa Kohama Arestegui"
           }
-        ],
-       "GII": [
-          {
-            "Tipo": "P",
-            "Dia": "LU",
-            "Hora":  "7:45-10:00",
-            "Profesor": "Betsy Serrano Mariño"
-          },
-          {
-            "Tipo": "P",
-            "Dia": "MI",
-            "Hora":  "7:45-10:00",
-            "Profesor": "Betsy Serrano Mariño"
-          },
-          {
-            "Tipo": "T",
-            "Dia": "VI",
-            "Hora": "7:45-10:00",
-            "Profesor": "Betsy Serrano Mariño"
-          }
         ]
     }  
   }
