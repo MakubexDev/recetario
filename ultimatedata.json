@@ -43,29 +43,6 @@
             "Profesor": "Betsy Serrano Mariño"
           }
         ]
-    },
-    {
-    "Ciclo": 1,
-    "Codigo": "AR-1102",
-    "Secciones": {
-      "GI": [
-          {
-            "Tipo": "P",
-            "Dia": "MA",
-            "Hora": "7:45-11:30",
-            "Profesor": "Xenia Verdi Chahua"
-          }
-        ],
-      "GII": [
-          {
-            "Tipo": "P",
-            "Dia": "MA",
-            "Hora":  "7:45-11:30",
-            "Profesor": "Betsy Serrano Mariño"
-          }
-        ]
-      }
-    }
-
+    }  
   }
 ]
