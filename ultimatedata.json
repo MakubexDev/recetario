@@ -5,24 +5,67 @@
     "Secciones": {
         "GI": [
           {
-            "Tipo": "T",
+            "Tipo": "P",
             "Dia": "LU",
-            "Hora":  "8:00-10:00",
-            "Profesor": "ARQ.ROSA KOHAMA ARESTEGUI"
+            "Hora":  "7:45-10:00",
+            "Profesor": "Rosa Kohama Arestegui"
           },
           {
             "Tipo": "P",
             "Dia": "MI",
-            "Hora":  "8:00-10:00",
-            "Profesor": "ARQ.ROSA KOHAMA ARESTEGUI"
+            "Hora":  "7:45-10:00",
+            "Profesor": "Rosa Kohama Arestegui"
           },
           {
-            "Tipo": "L",
+            "Tipo": "T",
             "Dia": "VI",
-            "Hora": "8:00-10:00",
-            "Profesor": "ARQ.ROSA KOHAMA ARESTEGUI"
+            "Hora": "7:45-10:00",
+            "Profesor": "Rosa Kohama Arestegui"
+          }
+        ],
+       "GII": [
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora":  "7:45-10:00",
+            "Profesor": "Betsy Serrano Mariño"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora":  "7:45-10:00",
+            "Profesor": "Betsy Serrano Mariño"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "7:45-10:00",
+            "Profesor": "Betsy Serrano Mariño"
           }
         ]
+    },
+    {
+    "Ciclo": 1,
+    "Codigo": "AR-1101",
+    "Secciones": {
+      "GI": [
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora":  "7:45-11:30",
+            "Profesor": "Xenia Verdi Chahua"
+          }
+        ],
+      "GII": [
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora":  "7:45-11:30",
+            "Profesor": "Betsy Serrano Mariño"
+          }
+        ]
+      }
     }
+
   }
 ]
