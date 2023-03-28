@@ -23,6 +23,47 @@
             "Profesor": "Rosa Kohama Arestegui"
           }
         ]
+      ,
+      "GII": [
+          {
+            "Tipo": "P",
+            "Dia": "LU",
+            "Hora": "8:00-10:00",
+            "Profesor": "Betsy Serrano Mariño"
+          },
+          {
+            "Tipo": "P",
+            "Dia": "MI",
+            "Hora": "8:00-10:00",
+            "Profesor": "Betsy Serrano Mariño"
+          },
+          {
+            "Tipo": "T",
+            "Dia": "VI",
+            "Hora": "8:00-10:00",
+            "Profesor": "Betsy Serrano Mariño"
+          }
+        ]
       }
+    },
+    "Ciclo": 1,
+    "Codigo": "AR-1102",
+    "Secciones": {
+     "GI": [
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "8:00-12:00",
+            "Profesor": "Xenia Verdi Chahua"
+          }
+        ],
+      "GII": [
+          {
+            "Tipo": "P",
+            "Dia": "MA",
+            "Hora": "8:00-12:00",
+            "Profesor": "Betsy Serrano Mariño"
+          }
+      ]
     }
 ]
