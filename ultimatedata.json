@@ -5,7 +5,7 @@
     "Secciones": {
         "A": [
           {
-            "Tipo": "P",
+            "Tipo": "T",
             "Dia":"LU",
             "Hora": "8:00-10:00",
             "Profesor": "ROSA KOHAMA ARESTEGUI"
@@ -17,7 +17,7 @@
             "Profesor": "ROSA KOHAMA ARESTEGUI"
           },
           {
-            "Tipo": "T",
+            "Tipo": "P",
             "Dia": "VI",
             "Hora": "8:00-10:00",
             "Profesor": "ROSA KOHAMA ARESTEGUI"
@@ -26,7 +26,7 @@
       ,
       "B": [
           {
-            "Tipo": "P",
+            "Tipo": "T",
             "Dia": "LU",
             "Hora": "8:00-10:00",
             "Profesor": "BETSY SERRANO MARIÑO"
@@ -38,7 +38,7 @@
             "Profesor": "BETSY SERRANO MARIÑO"
           },
           {
-            "Tipo": "T",
+            "Tipo": "P",
             "Dia": "VI",
             "Hora": "8:00-10:00",
             "Profesor": "BETSY SERRANO MARIÑO"
@@ -51,7 +51,7 @@
     "Secciones": {
      "A": [
           {
-            "Tipo": "P",
+            "Tipo": "T",
             "Dia": "MA",
             "Hora": "8:00-12:00",
             "Profesor": "XENIA VERDI CHAHUA"
@@ -59,7 +59,7 @@
         ],
       "B": [
           {
-            "Tipo": "P",
+            "Tipo": "T",
             "Dia": "MA",
             "Hora": "8:00-12:00",
             "Profesor": "BETSY SERRANO MARIÑO"
@@ -72,7 +72,7 @@
     "Secciones": {
      "O": [
           {
-            "Tipo": "P",
+            "Tipo": "T",
             "Dia": "MA",
             "Hora": "16:00-19:00",
             "Profesor": "NA"
@@ -104,13 +104,13 @@
     "Secciones": {
      "O": [
           {
-            "Tipo": "P",
+            "Tipo": "T",
             "Dia": "LU",
             "Hora": "16:00-17:00",
             "Profesor": "NA"
           },
           {
-            "Tipo": "L",
+            "Tipo": "P",
             "Dia": "MI",
             "Hora": "16:00-17:00",
             "Profesor": "NA"
