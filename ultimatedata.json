@@ -1,54 +1,69 @@
-[{"Ciclo": 1,"Codigo": "AR1101","Secciones":{"A":[{"Tipo": "T","Dia":"LU","Hora": "8:00-10:00","Profesor": "ROSA KOHAMA ARESTEGUI"},{"Tipo": "P","Dia": "MI","Hora": "8:00-10:00","Profesor": "ROSA KOHAMA ARESTEGUI"
-          },
-          {
-            "Tipo": "P",
-            "Dia": "VI",
-            "Hora": "8:00-10:00",
-            "Profesor": "ROSA KOHAMA ARESTEGUI"
-          }
-        ]
-      ,
+[
+  {
+    "Ciclo": 1,
+    "Codigo": "AR1101",
+    "Secciones": {
+      "A": [
+        {
+          "Tipo": "T",
+          "Dia": "LU",
+          "Hora": "8:00-10:00",
+          "Profesor": "ROSA KOHAMA ARESTEGUI"
+        },
+        {
+          "Tipo": "P",
+          "Dia": "MI",
+          "Hora": "8:00-10:00",
+          "Profesor": "ROSA KOHAMA ARESTEGUI"
+        },
+        {
+          "Tipo": "P",
+          "Dia": "VI",
+          "Hora": "8:00-10:00",
+          "Profesor": "ROSA KOHAMA ARESTEGUI"
+        }
+      ],
       "B": [
-          {
-            "Tipo": "T",
-            "Dia": "LU",
-            "Hora": "8:00-10:00",
-            "Profesor": "BETSY SERRANO MARIÑO"
-          },
-          {
-            "Tipo": "P",
-            "Dia": "MI",
-            "Hora": "8:00-10:00",
-            "Profesor": "BETSY SERRANO MARIÑO"
-          },
-          {
-            "Tipo": "P",
-            "Dia": "VI",
-            "Hora": "8:00-10:00",
-            "Profesor": "BETSY SERRANO MARIÑO"
-          }
-        ]
-      }
-    },
-    {
-      "Ciclo": 1,
-      "Codigo": "AR1102",
-      "Secciones": {
-        "A": [
-          {
-            "Tipo": "T",
-            "Dia": "MA",
-            "Hora": "8:00-12:00",
-            "Profesor": "XENIA VERDI CHAHUA"
-          }
-        ],
-        "B": [
-          {
-            "Tipo": "T",
-            "Dia": "MA",
-            "Hora": "8:00-12:00",
-            "Profesor": "BETSY SERRANO MARIÑO"
-          }
+        {
+          "Tipo": "T",
+          "Dia": "LU",
+          "Hora": "8:00-10:00",
+          "Profesor": "BETSY SERRANO MARIÑO"
+        },
+        {
+          "Tipo": "P",
+          "Dia": "MI",
+          "Hora": "8:00-10:00",
+          "Profesor": "BETSY SERRANO MARIÑO"
+        },
+        {
+          "Tipo": "P",
+          "Dia": "VI",
+          "Hora": "8:00-10:00",
+          "Profesor": "BETSY SERRANO MARIÑO"
+        }
+      ]
+    }
+  },
+  {
+    "Ciclo": 1,
+    "Codigo": "AR1102",
+    "Secciones": {
+      "A": [
+        {
+          "Tipo": "T",
+          "Dia": "MA",
+          "Hora": "8:00-12:00",
+          "Profesor": "XENIA VERDI CHAHUA"
+        }
+      ],
+      "B": [
+        {
+          "Tipo": "T",
+          "Dia": "MA",
+          "Hora": "8:00-12:00",
+          "Profesor": "BETSY SERRANO MARIÑO"
+        }
       ]
     }
   },
@@ -56,68 +71,68 @@
     "Ciclo": 1,
     "Codigo": "AR1103",
     "Secciones": {
-     "O": [
-          {
-            "Tipo": "T",
-            "Dia": "MA",
-            "Hora": "16:00-19:00",
-            "Profesor": "NA"
-          }
-        ]
+      "O": [
+        {
+          "Tipo": "T",
+          "Dia": "MA",
+          "Hora": "16:00-19:00",
+          "Profesor": "NA"
+        }
+      ]
     }
   },
   {
     "Ciclo": 1,
     "Codigo": "AR1104",
     "Secciones": {
-     "O": [
-          {
-            "Tipo": "T",
-            "Dia": "LU",
-            "Hora": "10:00-11:00",
-            "Profesor": "NA"
-          },
-          {
-            "Tipo": "P",
-            "Dia": "MI",
-            "Hora": "10:00-11:00",
-            "Profesor": "NA"
-          }
-        ]
+      "O": [
+        {
+          "Tipo": "T",
+          "Dia": "LU",
+          "Hora": "10:00-11:00",
+          "Profesor": "NA"
+        },
+        {
+          "Tipo": "P",
+          "Dia": "MI",
+          "Hora": "10:00-11:00",
+          "Profesor": "NA"
+        }
+      ]
     }
   },
-   {
+  {
     "Ciclo": 1,
     "Codigo": "AR1105",
     "Secciones": {
-    "O": [
-          {
-            "Tipo": "T",
-            "Dia": "LU",
-            "Hora": "16:00-17:00",
-            "Profesor": "NA"
-          },
-          {
-            "Tipo": "P",
-            "Dia": "MI",
-            "Hora": "16:00-17:00",
-            "Profesor": "NA"
-          }
-        ]
+      "O": [
+        {
+          "Tipo": "T",
+          "Dia": "LU",
+          "Hora": "16:00-17:00",
+          "Profesor": "NA"
+        },
+        {
+          "Tipo": "P",
+          "Dia": "MI",
+          "Hora": "16:00-17:00",
+          "Profesor": "NA"
+        }
+      ]
     }
   },
   {
     "Ciclo": 1,
     "Codigo": "AR1106",
     "Secciones": {
-    "O": [
-          {
-            "Tipo": "T",
-            "Dia": "VI",
-            "Hora": "16:00-19:00",
-            "Profesor": "NA"
-          }
-        ]
+      "O": [
+        {
+          "Tipo": "T",
+          "Dia": "VI",
+          "Hora": "16:00-19:00",
+          "Profesor": "NA"
+        }
+      ]
     }
   }
 ]
