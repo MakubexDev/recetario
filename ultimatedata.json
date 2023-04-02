@@ -1,9 +1,9 @@
 [
   {
     "Ciclo": 1,
-    "Codigo": "AR-1101",
+    "Codigo": "AR1101",
     "Secciones": {
-        "GI": [
+        "A": [
           {
             "Tipo": "P",
             "Dia":"LU",
@@ -24,7 +24,7 @@
           }
         ]
       ,
-      "GII": [
+      "B": [
           {
             "Tipo": "P",
             "Dia": "LU",
@@ -47,9 +47,9 @@
       }
     },
     {"Ciclo": 1,
-    "Codigo": "AR-1102",
+    "Codigo": "AR1102",
     "Secciones": {
-     "GI": [
+     "A": [
           {
             "Tipo": "P",
             "Dia": "MA",
@@ -57,7 +57,7 @@
             "Profesor": "XENIA VERDI CHAHUA"
           }
         ],
-      "GII": [
+      "B": [
           {
             "Tipo": "P",
             "Dia": "MA",
@@ -68,7 +68,7 @@
     }
   },
   {"Ciclo": 1,
-    "Codigo": "AR-1103",
+    "Codigo": "AR1103",
     "Secciones": {
      "O": [
           {
@@ -81,7 +81,7 @@
     }
   },
   {"Ciclo": 1,
-    "Codigo": "AR-1104",
+    "Codigo": "AR1104",
     "Secciones": {
      "O": [
           {
@@ -100,7 +100,7 @@
     }
   },
    {"Ciclo": 1,
-    "Codigo": "AR-1105",
+    "Codigo": "AR1105",
     "Secciones": {
      "O": [
           {
@@ -119,7 +119,7 @@
     }
   },
   {"Ciclo": 1,
-    "Codigo": "AR-1106",
+    "Codigo": "AR1106",
     "Secciones": {
      "O": [
           {
