@@ -1,20 +1,4 @@
-[
-  {
-    "Ciclo": 1,
-    "Codigo": "AR1101",
-    "Secciones": {
-        "A": [
-          {
-            "Tipo": "T",
-            "Dia":"LU",
-            "Hora": "8:00-10:00",
-            "Profesor": "ROSA KOHAMA ARESTEGUI"
-          },
-          {
-            "Tipo": "P",
-            "Dia": "MI",
-            "Hora": "8:00-10:00",
-            "Profesor": "ROSA KOHAMA ARESTEGUI"
+[{"Ciclo": 1,"Codigo": "AR1101","Secciones":{"A":[{"Tipo": "T","Dia":"LU","Hora": "8:00-10:00","Profesor": "ROSA KOHAMA ARESTEGUI"},{"Tipo": "P","Dia": "MI","Hora": "8:00-10:00","Profesor": "ROSA KOHAMA ARESTEGUI"
           },
           {
             "Tipo": "P",
@@ -46,10 +30,11 @@
         ]
       }
     },
-    {"Ciclo": 1,
-    "Codigo": "AR1102",
-    "Secciones": {
-     "A": [
+    {
+      "Ciclo": 1,
+      "Codigo": "AR1102",
+      "Secciones": {
+        "A": [
           {
             "Tipo": "T",
             "Dia": "MA",
@@ -57,7 +42,7 @@
             "Profesor": "XENIA VERDI CHAHUA"
           }
         ],
-      "B": [
+        "B": [
           {
             "Tipo": "T",
             "Dia": "MA",
@@ -67,7 +52,8 @@
       ]
     }
   },
-  {"Ciclo": 1,
+  {
+    "Ciclo": 1,
     "Codigo": "AR1103",
     "Secciones": {
      "O": [
@@ -80,7 +66,8 @@
         ]
     }
   },
-  {"Ciclo": 1,
+  {
+    "Ciclo": 1,
     "Codigo": "AR1104",
     "Secciones": {
      "O": [
@@ -99,10 +86,11 @@
         ]
     }
   },
-   {"Ciclo": 1,
+   {
+    "Ciclo": 1,
     "Codigo": "AR1105",
     "Secciones": {
-     "O": [
+    "O": [
           {
             "Tipo": "T",
             "Dia": "LU",
@@ -118,10 +106,11 @@
         ]
     }
   },
-  {"Ciclo": 1,
+  {
+    "Ciclo": 1,
     "Codigo": "AR1106",
     "Secciones": {
-     "O": [
+    "O": [
           {
             "Tipo": "T",
             "Dia": "VI",
