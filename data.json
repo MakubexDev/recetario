@@ -1,1 +1,144 @@
-{"data":[["AR1101","TALLER DE DISEÑO I","A","T","LU","8:00-10:00","ROSA KOHAMA ARESTEGUI","PRIMER CICLO"],["AR1101","TALLER DE DISEÑO I","A","P","MI","8:00-10:00","ROSA KOHAMA ARESTEGUI","PRIMER CICLO"],["AR1101","TALLER DE DISEÑO I","A","P","VI","8:00-10:00","ROSA KOHAMA ARESTEGUI","PRIMER CICLO"],["AR1101","TALLER DE DISEÑO I","B","T","LU","8:00-10:00","BETSY SERRANO MARIÑO","PRIMER CICLO"],["AR1101","TALLER DE DISEÑO I","B","P","MI","8:00-10:00","BETSY SERRANO MARIÑO","PRIMER CICLO"],["AR1101","TALLER DE DISEÑO I","B","P","VI","8:00-10:00","BETSY SERRANO MARIÑO","PRIMER CICLO"],["AR1102","EXPRESIÓN ARQUITECTONICA I","A","T","MA","8:00-12:00","XENIA VERDI CHAHUA","PRIMER CICLO"],["AR1102","EXPRESIÓN ARQUITECTONICA I","B","T","MA","8:00-12:00","BETSY SERRANO MARIÑO","PRIMER CICLO"],["AR1103","GEOMETRIA DESCRIPTIVA","O","T","MA","16:00-19:00","NA","PRIMER CICLO"],["AR1104","INTRODUCCIÓN A LA METODOLOGIA DE LA INVESTIGACIÓN","O","T","LU","10:00-11:00","NA","PRIMER CICLO"],["AR1104","INTRODUCCIÓN A LA METODOLOGIA DE LA INVESTIGACIÓN","O","P","MI","10:00-11:00","NA","PRIMER CICLO"],["AR1105","MATEMATICA I","O","T","LU","16:00-17:00","NA","PRIMER CICLO"],["AR1105","MATEMATICA I","O","P","MI","16:00-17:00","NA","PRIMER CICLO"],["AR1106","REALIDAD NACIONAL","O","T","VI","16:00-19:00","NA","PRIMER CICLO"]]}
+{
+  "data": [
+    [
+      "AR1101",
+      "TALLER DE DISEÑO I",
+      "A",
+      "T",
+      "LU",
+      "8:00-10:00",
+      "ROSA KOHAMA ARESTEGUI",
+      "PRIMER CICLO"
+    ],
+    [
+      "AR1101",
+      "TALLER DE DISEÑO I",
+      "A",
+      "P",
+      "MI",
+      "8:00-10:00",
+      "ROSA KOHAMA ARESTEGUI",
+      "PRIMER CICLO"
+    ],
+    [
+      "AR1101",
+      "TALLER DE DISEÑO I",
+      "A",
+      "P",
+      "VI",
+      "8:00-10:00",
+      "ROSA KOHAMA ARESTEGUI",
+      "PRIMER CICLO"
+    ],
+    [
+      "AR1101",
+      "TALLER DE DISEÑO I",
+      "B",
+      "T",
+      "LU",
+      "8:00-10:00",
+      "BETSY SERRANO MARIÑO",
+      "PRIMER CICLO"
+    ],
+    [
+      "AR1101",
+      "TALLER DE DISEÑO I",
+      "B",
+      "P",
+      "MI",
+      "8:00-10:00",
+      "BETSY SERRANO MARIÑO",
+      "PRIMER CICLO"
+    ],
+    [
+      "AR1101",
+      "TALLER DE DISEÑO I",
+      "B",
+      "P",
+      "VI",
+      "8:00-10:00",
+      "BETSY SERRANO MARIÑO",
+      "PRIMER CICLO"
+    ],
+    [
+      "AR1102",
+      "EXPRESIÓN ARQUITECTONICA I",
+      "A",
+      "T",
+      "MA",
+      "8:00-12:00",
+      "XENIA VERDI CHAHUA",
+      "PRIMER CICLO"
+    ],
+    [
+      "AR1102",
+      "EXPRESIÓN ARQUITECTONICA I",
+      "B",
+      "T",
+      "MA",
+      "8:00-12:00",
+      "BETSY SERRANO MARIÑO",
+      "PRIMER CICLO"
+    ],
+    [
+      "AR1103",
+      "GEOMETRIA DESCRIPTIVA",
+      "O",
+      "T",
+      "MA",
+      "16:00-19:00",
+      "NA",
+      "PRIMER CICLO"
+    ],
+    [
+      "AR1104",
+      "INTRODUCCIÓN A LA METODOLOGIA DE LA INVESTIGACIÓN",
+      "O",
+      "T",
+      "LU",
+      "10:00-11:00",
+      "NA",
+      "PRIMER CICLO"
+    ],
+    [
+      "AR1104",
+      "INTRODUCCIÓN A LA METODOLOGIA DE LA INVESTIGACIÓN",
+      "O",
+      "P",
+      "MI",
+      "10:00-11:00",
+      "NA",
+      "PRIMER CICLO"
+    ],
+    [
+      "AR1105",
+      "MATEMATICA I",
+      "O",
+      "T",
+      "LU",
+      "16:00-17:00",
+      "NA",
+      "PRIMER CICLO"
+    ],
+    [
+      "AR1105",
+      "MATEMATICA I",
+      "O",
+      "P",
+      "MI",
+      "16:00-17:00",
+      "NA",
+      "PRIMER CICLO"
+    ],
+    [
+      "AR1106",
+      "REALIDAD NACIONAL",
+      "O",
+      "T",
+      "VI",
+      "16:00-19:00",
+      "NA",
+      "PRIMER CICLO"
+    ]
+  ]
+}
