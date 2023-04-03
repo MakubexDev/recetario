@@ -71,7 +71,7 @@
     "Ciclo": 1,
     "Codigo": "AR1103",
     "Secciones": {
-      "O": [
+      "A": [
         {
           "Tipo": "T",
           "Dia": "MA",
@@ -85,7 +85,7 @@
     "Ciclo": 1,
     "Codigo": "AR1104",
     "Secciones": {
-      "O": [
+      "A": [
         {
           "Tipo": "T",
           "Dia": "LU",
@@ -105,7 +105,7 @@
     "Ciclo": 1,
     "Codigo": "AR1105",
     "Secciones": {
-      "O": [
+      "A": [
         {
           "Tipo": "T",
           "Dia": "LU",
@@ -125,7 +125,7 @@
     "Ciclo": 1,
     "Codigo": "AR1106",
     "Secciones": {
-      "O": [
+      "A": [
         {
           "Tipo": "T",
           "Dia": "VI",
